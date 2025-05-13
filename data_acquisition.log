@@ -1,0 +1,261 @@
+2025-05-11 19:33:48,455 - INFO - Starting transaction data acquisition process
+2025-05-11 19:33:48,456 - INFO - Created directory: ./transaction_data
+2025-05-11 19:33:48,456 - INFO - Created directory: ./transaction_data\reference
+2025-05-11 19:33:48,456 - INFO - Downloading merchants reference file from gs://implemention_engineer_interviews/transaction_data/merchants_reference.csv
+2025-05-11 19:33:55,204 - INFO - Successfully downloaded merchants reference file
+2025-05-11 19:33:55,204 - INFO - Downloading generation summary file from gs://implemention_engineer_interviews/transaction_data/generation_summary.json
+2025-05-11 19:34:00,165 - INFO - Successfully downloaded generation summary file
+2025-05-11 19:36:00,697 - INFO - Starting transaction data acquisition process
+2025-05-11 19:36:00,698 - INFO - Downloading merchants reference file from gs://implemention_engineer_interviews/transaction_data/merchants_reference.csv
+2025-05-11 19:36:07,389 - INFO - Successfully downloaded merchants reference file
+2025-05-11 19:36:07,390 - INFO - Downloading generation summary file from gs://implemention_engineer_interviews/transaction_data/generation_summary.json
+2025-05-11 19:36:10,721 - INFO - Successfully downloaded generation summary file
+2025-05-11 19:36:10,724 - INFO - Created directory: ./transaction_data\2025-04-07
+2025-05-11 19:36:10,724 - INFO - Downloading transactions file from gs://implemention_engineer_interviews/transaction_data/2025-04-07/transactions.csv
+2025-05-11 19:36:10,724 - INFO - Created directory: ./transaction_data\2025-04-09
+2025-05-11 19:36:10,724 - INFO - Created directory: ./transaction_data\2025-04-08
+2025-05-11 19:36:10,725 - INFO - Created directory: ./transaction_data\2025-04-10
+2025-05-11 19:36:10,725 - INFO - Created directory: ./transaction_data\2025-04-11
+2025-05-11 19:36:10,725 - INFO - Downloading transactions file from gs://implemention_engineer_interviews/transaction_data/2025-04-09/transactions.csv
+2025-05-11 19:36:10,725 - INFO - Downloading transactions file from gs://implemention_engineer_interviews/transaction_data/2025-04-08/transactions.csv
+2025-05-11 19:36:10,726 - INFO - Downloading transactions file from gs://implemention_engineer_interviews/transaction_data/2025-04-10/transactions.csv
+2025-05-11 19:36:10,726 - INFO - Created directory: ./transaction_data\2025-04-12
+2025-05-11 19:36:10,726 - INFO - Downloading transactions file from gs://implemention_engineer_interviews/transaction_data/2025-04-11/transactions.csv
+2025-05-11 19:36:10,726 - INFO - Created directory: ./transaction_data\2025-04-13
+2025-05-11 19:36:10,727 - INFO - Created directory: ./transaction_data\2025-04-14
+2025-05-11 19:36:10,728 - INFO - Created directory: ./transaction_data\2025-04-16
+2025-05-11 19:36:10,728 - INFO - Created directory: ./transaction_data\2025-04-15
+2025-05-11 19:36:10,728 - INFO - Downloading transactions file from gs://implemention_engineer_interviews/transaction_data/2025-04-12/transactions.csv
+2025-05-11 19:36:10,728 - INFO - Created directory: ./transaction_data\2025-04-17
+2025-05-11 19:36:10,728 - INFO - Created directory: ./transaction_data\2025-04-18
+2025-05-11 19:36:10,730 - INFO - Downloading transactions file from gs://implemention_engineer_interviews/transaction_data/2025-04-13/transactions.csv
+2025-05-11 19:36:10,730 - INFO - Created directory: ./transaction_data\2025-04-19
+2025-05-11 19:36:10,730 - INFO - Downloading transactions file from gs://implemention_engineer_interviews/transaction_data/2025-04-14/transactions.csv
+2025-05-11 19:36:10,731 - INFO - Downloading transactions file from gs://implemention_engineer_interviews/transaction_data/2025-04-16/transactions.csv
+2025-05-11 19:36:10,731 - INFO - Downloading transactions file from gs://implemention_engineer_interviews/transaction_data/2025-04-15/transactions.csv
+2025-05-11 19:36:10,731 - INFO - Created directory: ./transaction_data\2025-04-20
+2025-05-11 19:36:10,732 - INFO - Created directory: ./transaction_data\2025-04-21
+2025-05-11 19:36:10,732 - INFO - Created directory: ./transaction_data\2025-04-22
+2025-05-11 19:36:10,732 - INFO - Downloading transactions file from gs://implemention_engineer_interviews/transaction_data/2025-04-17/transactions.csv
+2025-05-11 19:36:10,733 - INFO - Downloading transactions file from gs://implemention_engineer_interviews/transaction_data/2025-04-18/transactions.csv
+2025-05-11 19:36:10,733 - INFO - Downloading transactions file from gs://implemention_engineer_interviews/transaction_data/2025-04-19/transactions.csv
+2025-05-11 19:36:10,736 - INFO - Downloading transactions file from gs://implemention_engineer_interviews/transaction_data/2025-04-20/transactions.csv
+2025-05-11 19:36:10,737 - INFO - Downloading transactions file from gs://implemention_engineer_interviews/transaction_data/2025-04-21/transactions.csv
+2025-05-11 19:36:10,738 - INFO - Downloading transactions file from gs://implemention_engineer_interviews/transaction_data/2025-04-22/transactions.csv
+2025-05-11 19:38:14,487 - INFO - Successfully downloaded transactions data for 2025-04-16
+2025-05-11 19:38:14,487 - INFO - Downloading metadata file from gs://implemention_engineer_interviews/transaction_data/2025-04-16/metadata.json
+2025-05-11 19:38:21,697 - INFO - Successfully downloaded metadata for 2025-04-16
+2025-05-11 19:38:21,699 - INFO - Created directory: ./transaction_data\2025-04-23
+2025-05-11 19:38:21,699 - INFO - Downloading transactions file from gs://implemention_engineer_interviews/transaction_data/2025-04-23/transactions.csv
+2025-05-11 19:38:26,393 - INFO - Successfully downloaded transactions data for 2025-04-17
+2025-05-11 19:38:26,393 - INFO - Downloading metadata file from gs://implemention_engineer_interviews/transaction_data/2025-04-17/metadata.json
+2025-05-11 19:38:30,836 - INFO - Successfully downloaded metadata for 2025-04-17
+2025-05-11 19:38:30,837 - INFO - Created directory: ./transaction_data\2025-04-24
+2025-05-11 19:38:30,837 - INFO - Downloading transactions file from gs://implemention_engineer_interviews/transaction_data/2025-04-24/transactions.csv
+2025-05-11 19:38:36,901 - INFO - Successfully downloaded transactions data for 2025-04-09
+2025-05-11 19:38:36,901 - INFO - Downloading metadata file from gs://implemention_engineer_interviews/transaction_data/2025-04-09/metadata.json
+2025-05-11 19:38:41,279 - INFO - Successfully downloaded metadata for 2025-04-09
+2025-05-11 19:38:41,281 - INFO - Created directory: ./transaction_data\2025-04-25
+2025-05-11 19:38:41,281 - INFO - Downloading transactions file from gs://implemention_engineer_interviews/transaction_data/2025-04-25/transactions.csv
+2025-05-11 19:38:42,403 - INFO - Successfully downloaded transactions data for 2025-04-13
+2025-05-11 19:38:42,403 - INFO - Downloading metadata file from gs://implemention_engineer_interviews/transaction_data/2025-04-13/metadata.json
+2025-05-11 19:38:44,467 - INFO - Successfully downloaded transactions data for 2025-04-10
+2025-05-11 19:38:44,468 - INFO - Downloading metadata file from gs://implemention_engineer_interviews/transaction_data/2025-04-10/metadata.json
+2025-05-11 19:38:45,074 - INFO - Successfully downloaded transactions data for 2025-04-18
+2025-05-11 19:38:45,075 - INFO - Downloading metadata file from gs://implemention_engineer_interviews/transaction_data/2025-04-18/metadata.json
+2025-05-11 19:38:45,502 - INFO - Successfully downloaded transactions data for 2025-04-12
+2025-05-11 19:38:45,503 - INFO - Downloading metadata file from gs://implemention_engineer_interviews/transaction_data/2025-04-12/metadata.json
+2025-05-11 19:38:45,659 - INFO - Successfully downloaded transactions data for 2025-04-21
+2025-05-11 19:38:45,659 - INFO - Downloading metadata file from gs://implemention_engineer_interviews/transaction_data/2025-04-21/metadata.json
+2025-05-11 19:38:46,530 - INFO - Successfully downloaded transactions data for 2025-04-11
+2025-05-11 19:38:46,530 - INFO - Downloading metadata file from gs://implemention_engineer_interviews/transaction_data/2025-04-11/metadata.json
+2025-05-11 19:38:46,664 - INFO - Successfully downloaded transactions data for 2025-04-15
+2025-05-11 19:38:46,664 - INFO - Downloading metadata file from gs://implemention_engineer_interviews/transaction_data/2025-04-15/metadata.json
+2025-05-11 19:38:47,698 - INFO - Successfully downloaded transactions data for 2025-04-14
+2025-05-11 19:38:47,698 - INFO - Downloading metadata file from gs://implemention_engineer_interviews/transaction_data/2025-04-14/metadata.json
+2025-05-11 19:38:48,231 - INFO - Successfully downloaded metadata for 2025-04-13
+2025-05-11 19:38:48,232 - INFO - Created directory: ./transaction_data\2025-04-26
+2025-05-11 19:38:48,233 - INFO - Downloading transactions file from gs://implemention_engineer_interviews/transaction_data/2025-04-26/transactions.csv
+2025-05-11 19:38:49,380 - INFO - Successfully downloaded transactions data for 2025-04-08
+2025-05-11 19:38:49,380 - INFO - Downloading metadata file from gs://implemention_engineer_interviews/transaction_data/2025-04-08/metadata.json
+2025-05-11 19:38:49,738 - INFO - Successfully downloaded transactions data for 2025-04-20
+2025-05-11 19:38:49,738 - INFO - Downloading metadata file from gs://implemention_engineer_interviews/transaction_data/2025-04-20/metadata.json
+2025-05-11 19:38:50,149 - INFO - Successfully downloaded metadata for 2025-04-18
+2025-05-11 19:38:50,150 - INFO - Created directory: ./transaction_data\2025-04-27
+2025-05-11 19:38:50,151 - INFO - Downloading transactions file from gs://implemention_engineer_interviews/transaction_data/2025-04-27/transactions.csv
+2025-05-11 19:38:50,261 - INFO - Successfully downloaded transactions data for 2025-04-19
+2025-05-11 19:38:50,261 - INFO - Downloading metadata file from gs://implemention_engineer_interviews/transaction_data/2025-04-19/metadata.json
+2025-05-11 19:38:50,777 - INFO - Successfully downloaded metadata for 2025-04-10
+2025-05-11 19:38:50,778 - INFO - Created directory: ./transaction_data\2025-04-28
+2025-05-11 19:38:50,778 - INFO - Downloading transactions file from gs://implemention_engineer_interviews/transaction_data/2025-04-28/transactions.csv
+2025-05-11 19:38:51,997 - INFO - Successfully downloaded metadata for 2025-04-11
+2025-05-11 19:38:51,998 - INFO - Created directory: ./transaction_data\2025-04-29
+2025-05-11 19:38:51,999 - INFO - Downloading transactions file from gs://implemention_engineer_interviews/transaction_data/2025-04-29/transactions.csv
+2025-05-11 19:38:52,052 - INFO - Successfully downloaded metadata for 2025-04-15
+2025-05-11 19:38:52,055 - INFO - Created directory: ./transaction_data\2025-04-30
+2025-05-11 19:38:52,056 - INFO - Downloading transactions file from gs://implemention_engineer_interviews/transaction_data/2025-04-30/transactions.csv
+2025-05-11 19:38:52,299 - INFO - Successfully downloaded metadata for 2025-04-21
+2025-05-11 19:38:52,301 - INFO - Created directory: ./transaction_data\2025-05-01
+2025-05-11 19:38:52,301 - INFO - Downloading transactions file from gs://implemention_engineer_interviews/transaction_data/2025-05-01/transactions.csv
+2025-05-11 19:38:52,939 - INFO - Successfully downloaded transactions data for 2025-04-22
+2025-05-11 19:38:52,939 - INFO - Downloading metadata file from gs://implemention_engineer_interviews/transaction_data/2025-04-22/metadata.json
+2025-05-11 19:38:53,563 - INFO - Successfully downloaded metadata for 2025-04-12
+2025-05-11 19:38:53,567 - INFO - Created directory: ./transaction_data\2025-05-02
+2025-05-11 19:38:53,567 - INFO - Downloading transactions file from gs://implemention_engineer_interviews/transaction_data/2025-05-02/transactions.csv
+2025-05-11 19:38:54,959 - INFO - Successfully downloaded metadata for 2025-04-08
+2025-05-11 19:38:54,968 - INFO - Created directory: ./transaction_data\2025-05-03
+2025-05-11 19:38:54,968 - INFO - Downloading transactions file from gs://implemention_engineer_interviews/transaction_data/2025-05-03/transactions.csv
+2025-05-11 19:38:55,405 - INFO - Successfully downloaded metadata for 2025-04-20
+2025-05-11 19:38:55,411 - INFO - Created directory: ./transaction_data\2025-05-04
+2025-05-11 19:38:55,411 - INFO - Downloading transactions file from gs://implemention_engineer_interviews/transaction_data/2025-05-04/transactions.csv
+2025-05-11 19:38:56,076 - INFO - Successfully downloaded metadata for 2025-04-14
+2025-05-11 19:38:56,090 - INFO - Created directory: ./transaction_data\2025-05-05
+2025-05-11 19:38:56,090 - INFO - Downloading transactions file from gs://implemention_engineer_interviews/transaction_data/2025-05-05/transactions.csv
+2025-05-11 19:38:57,427 - INFO - Successfully downloaded metadata for 2025-04-19
+2025-05-11 19:38:57,443 - INFO - Created directory: ./transaction_data\2025-05-06
+2025-05-11 19:38:57,443 - INFO - Downloading transactions file from gs://implemention_engineer_interviews/transaction_data/2025-05-06/transactions.csv
+2025-05-11 19:38:59,960 - INFO - Successfully downloaded metadata for 2025-04-22
+2025-05-11 19:38:59,975 - INFO - Created directory: ./transaction_data\2025-05-07
+2025-05-11 19:38:59,975 - INFO - Downloading transactions file from gs://implemention_engineer_interviews/transaction_data/2025-05-07/transactions.csv
+2025-05-11 19:39:02,080 - INFO - Successfully downloaded transactions data for 2025-04-07
+2025-05-11 19:39:02,083 - INFO - Downloading metadata file from gs://implemention_engineer_interviews/transaction_data/2025-04-07/metadata.json
+2025-05-11 19:39:08,166 - INFO - Successfully downloaded metadata for 2025-04-07
+2025-05-11 19:40:03,249 - INFO - Successfully downloaded transactions data for 2025-04-23
+2025-05-11 19:40:03,249 - INFO - Downloading metadata file from gs://implemention_engineer_interviews/transaction_data/2025-04-23/metadata.json
+2025-05-11 19:40:08,087 - INFO - Successfully downloaded metadata for 2025-04-23
+2025-05-11 19:40:11,302 - INFO - Successfully downloaded transactions data for 2025-04-24
+2025-05-11 19:40:11,302 - INFO - Downloading metadata file from gs://implemention_engineer_interviews/transaction_data/2025-04-24/metadata.json
+2025-05-11 19:40:15,709 - INFO - Successfully downloaded metadata for 2025-04-24
+2025-05-11 19:40:31,534 - INFO - Successfully downloaded transactions data for 2025-04-25
+2025-05-11 19:40:31,535 - INFO - Downloading metadata file from gs://implemention_engineer_interviews/transaction_data/2025-04-25/metadata.json
+2025-05-11 19:40:36,092 - INFO - Successfully downloaded metadata for 2025-04-25
+2025-05-11 19:40:52,737 - INFO - Successfully downloaded transactions data for 2025-04-26
+2025-05-11 19:40:52,737 - INFO - Downloading metadata file from gs://implemention_engineer_interviews/transaction_data/2025-04-26/metadata.json
+2025-05-11 19:40:55,173 - INFO - Successfully downloaded transactions data for 2025-04-28
+2025-05-11 19:40:55,174 - INFO - Downloading metadata file from gs://implemention_engineer_interviews/transaction_data/2025-04-28/metadata.json
+2025-05-11 19:40:57,612 - INFO - Successfully downloaded metadata for 2025-04-26
+2025-05-11 19:40:57,747 - INFO - Successfully downloaded transactions data for 2025-04-27
+2025-05-11 19:40:57,747 - INFO - Downloading metadata file from gs://implemention_engineer_interviews/transaction_data/2025-04-27/metadata.json
+2025-05-11 19:40:59,806 - INFO - Successfully downloaded transactions data for 2025-04-30
+2025-05-11 19:40:59,807 - INFO - Downloading metadata file from gs://implemention_engineer_interviews/transaction_data/2025-04-30/metadata.json
+2025-05-11 19:41:00,222 - INFO - Successfully downloaded metadata for 2025-04-28
+2025-05-11 19:41:00,595 - INFO - Successfully downloaded transactions data for 2025-04-29
+2025-05-11 19:41:00,595 - INFO - Downloading metadata file from gs://implemention_engineer_interviews/transaction_data/2025-04-29/metadata.json
+2025-05-11 19:41:01,188 - INFO - Successfully downloaded transactions data for 2025-05-01
+2025-05-11 19:41:01,188 - INFO - Downloading metadata file from gs://implemention_engineer_interviews/transaction_data/2025-05-01/metadata.json
+2025-05-11 19:41:02,126 - INFO - Successfully downloaded transactions data for 2025-05-02
+2025-05-11 19:41:02,126 - INFO - Downloading metadata file from gs://implemention_engineer_interviews/transaction_data/2025-05-02/metadata.json
+2025-05-11 19:41:02,333 - INFO - Successfully downloaded metadata for 2025-04-27
+2025-05-11 19:41:02,671 - INFO - Successfully downloaded transactions data for 2025-05-05
+2025-05-11 19:41:02,672 - INFO - Downloading metadata file from gs://implemention_engineer_interviews/transaction_data/2025-05-05/metadata.json
+2025-05-11 19:41:02,929 - INFO - Successfully downloaded transactions data for 2025-05-04
+2025-05-11 19:41:02,929 - INFO - Downloading metadata file from gs://implemention_engineer_interviews/transaction_data/2025-05-04/metadata.json
+2025-05-11 19:41:02,991 - INFO - Successfully downloaded transactions data for 2025-05-06
+2025-05-11 19:41:02,992 - INFO - Downloading metadata file from gs://implemention_engineer_interviews/transaction_data/2025-05-06/metadata.json
+2025-05-11 19:41:03,016 - INFO - Successfully downloaded transactions data for 2025-05-03
+2025-05-11 19:41:03,023 - INFO - Downloading metadata file from gs://implemention_engineer_interviews/transaction_data/2025-05-03/metadata.json
+2025-05-11 19:41:03,237 - INFO - Successfully downloaded transactions data for 2025-05-07
+2025-05-11 19:41:03,237 - INFO - Downloading metadata file from gs://implemention_engineer_interviews/transaction_data/2025-05-07/metadata.json
+2025-05-11 19:41:04,985 - INFO - Successfully downloaded metadata for 2025-04-30
+2025-05-11 19:41:07,284 - INFO - Successfully downloaded metadata for 2025-04-29
+2025-05-11 19:41:07,565 - INFO - Successfully downloaded metadata for 2025-05-02
+2025-05-11 19:41:08,031 - INFO - Successfully downloaded metadata for 2025-05-01
+2025-05-11 19:41:09,348 - INFO - Successfully downloaded metadata for 2025-05-05
+2025-05-11 19:41:11,159 - INFO - Successfully downloaded metadata for 2025-05-04
+2025-05-11 19:41:11,214 - INFO - Successfully downloaded metadata for 2025-05-03
+2025-05-11 19:41:11,233 - INFO - Successfully downloaded metadata for 2025-05-06
+2025-05-11 19:41:11,240 - INFO - Successfully downloaded metadata for 2025-05-07
+2025-05-11 19:41:16,662 - INFO - Validated file for 2025-04-21 (Hash: eaf4d939...)
+2025-05-11 19:41:18,985 - INFO - Validated file for 2025-04-11 (Hash: 3898b471...)
+2025-05-11 19:41:19,614 - INFO - Validated file for 2025-04-07 (Hash: e1bb5ded...)
+2025-05-11 19:41:20,448 - INFO - Validated file for 2025-04-08 (Hash: 68c64a18...)
+2025-05-11 19:41:20,810 - INFO - Validated file for 2025-04-16 (Hash: 5e49eea4...)
+2025-05-11 19:41:21,026 - INFO - Validated file for 2025-04-14 (Hash: 9786f0f3...)
+2025-05-11 19:41:22,985 - INFO - Validated file for 2025-04-13 (Hash: dcaa6cf0...)
+2025-05-11 19:41:23,153 - INFO - Validated file for 2025-04-10 (Hash: 8bca493d...)
+2025-05-11 19:41:23,321 - INFO - Validated file for 2025-04-12 (Hash: 77798c97...)
+2025-05-11 19:41:23,920 - INFO - Validated file for 2025-04-17 (Hash: 8c40ef62...)
+2025-05-11 19:41:24,695 - INFO - Validated file for 2025-04-26 (Hash: d0d099a7...)
+2025-05-11 19:41:25,012 - INFO - Validated file for 2025-04-20 (Hash: ff80e116...)
+2025-05-11 19:41:25,237 - INFO - Validated file for 2025-04-09 (Hash: 76bd7eb5...)
+2025-05-11 19:41:26,489 - INFO - Validated file for 2025-04-22 (Hash: 5ca62503...)
+2025-05-11 19:41:26,521 - INFO - Validated file for 2025-04-15 (Hash: d0020338...)
+2025-05-11 19:41:26,745 - INFO - Validated file for 2025-04-19 (Hash: a57152d2...)
+2025-05-11 19:41:27,325 - INFO - Validated file for 2025-04-18 (Hash: f33fa95a...)
+2025-05-11 19:41:29,424 - INFO - Validated file for 2025-04-28 (Hash: 144d9fc8...)
+2025-05-11 19:41:29,689 - INFO - Validated file for 2025-04-23 (Hash: 010830bd...)
+2025-05-11 19:41:29,750 - INFO - Validated file for 2025-05-03 (Hash: 8c4ff572...)
+2025-05-11 19:41:29,791 - INFO - Validated file for 2025-05-05 (Hash: da99c9fe...)
+2025-05-11 19:41:29,945 - INFO - Validated file for 2025-05-07 (Hash: d8131f53...)
+2025-05-11 19:41:30,084 - INFO - Validated file for 2025-04-24 (Hash: 267a7ad9...)
+2025-05-11 19:41:30,227 - INFO - Validated file for 2025-04-29 (Hash: 68773791...)
+2025-05-11 19:41:30,354 - INFO - Validated file for 2025-04-25 (Hash: 4aafac65...)
+2025-05-11 19:41:31,365 - INFO - Validated file for 2025-05-01 (Hash: cd996641...)
+2025-05-11 19:41:32,554 - INFO - Validated file for 2025-05-06 (Hash: 4f6611ba...)
+2025-05-11 19:41:32,567 - INFO - Validated file for 2025-05-02 (Hash: 238bf2e6...)
+2025-05-11 19:41:32,671 - INFO - Validated file for 2025-04-27 (Hash: 2bbd6b70...)
+2025-05-11 19:41:32,843 - INFO - Validated file for 2025-05-04 (Hash: ca9676c4...)
+2025-05-11 19:41:32,885 - INFO - Validated file for 2025-04-30 (Hash: d660a511...)
+2025-05-11 19:41:32,888 - INFO - Analyzing file: ./transaction_data\2025-04-21\transactions.csv
+2025-05-11 19:41:32,889 - INFO - Analyzing file: ./transaction_data\2025-04-11\transactions.csv
+2025-05-11 19:41:32,889 - INFO - Analyzing file: ./transaction_data\2025-04-07\transactions.csv
+2025-05-11 19:41:32,889 - INFO - Analyzing file: ./transaction_data\2025-04-08\transactions.csv
+2025-05-11 19:41:32,890 - INFO - Analyzing file: ./transaction_data\2025-04-16\transactions.csv
+2025-05-11 19:41:32,892 - INFO - Analyzing file: ./transaction_data\2025-04-14\transactions.csv
+2025-05-11 19:41:32,893 - INFO - Analyzing file: ./transaction_data\2025-04-13\transactions.csv
+2025-05-11 19:41:32,894 - INFO - Analyzing file: ./transaction_data\2025-04-10\transactions.csv
+2025-05-11 19:41:32,895 - INFO - Analyzing file: ./transaction_data\2025-04-12\transactions.csv
+2025-05-11 19:41:32,896 - INFO - Analyzing file: ./transaction_data\2025-04-17\transactions.csv
+2025-05-11 19:41:32,897 - INFO - Analyzing file: ./transaction_data\2025-04-26\transactions.csv
+2025-05-11 19:41:32,898 - INFO - Analyzing file: ./transaction_data\2025-04-20\transactions.csv
+2025-05-11 19:41:32,900 - INFO - Analyzing file: ./transaction_data\2025-04-09\transactions.csv
+2025-05-11 19:41:32,900 - INFO - Analyzing file: ./transaction_data\2025-04-22\transactions.csv
+2025-05-11 19:41:32,905 - INFO - Analyzing file: ./transaction_data\2025-04-15\transactions.csv
+2025-05-11 19:41:32,909 - INFO - Analyzing file: ./transaction_data\2025-04-19\transactions.csv
+2025-05-11 19:42:39,319 - INFO - Completed analysis for 2025-04-16
+2025-05-11 19:42:39,325 - INFO - Analyzing file: ./transaction_data\2025-04-18\transactions.csv
+2025-05-11 19:42:39,525 - INFO - Completed analysis for 2025-04-09
+2025-05-11 19:42:39,532 - INFO - Analyzing file: ./transaction_data\2025-04-28\transactions.csv
+2025-05-11 19:42:39,659 - INFO - Completed analysis for 2025-04-11
+2025-05-11 19:42:39,667 - INFO - Analyzing file: ./transaction_data\2025-04-23\transactions.csv
+2025-05-11 19:42:39,671 - INFO - Completed analysis for 2025-04-08
+2025-05-11 19:42:39,718 - INFO - Analyzing file: ./transaction_data\2025-05-03\transactions.csv
+2025-05-11 19:42:39,780 - INFO - Completed analysis for 2025-04-12
+2025-05-11 19:42:39,791 - INFO - Analyzing file: ./transaction_data\2025-05-05\transactions.csv
+2025-05-11 19:42:39,812 - INFO - Completed analysis for 2025-04-15
+2025-05-11 19:42:39,821 - INFO - Analyzing file: ./transaction_data\2025-05-07\transactions.csv
+2025-05-11 19:42:39,824 - INFO - Completed analysis for 2025-04-17
+2025-05-11 19:42:39,841 - INFO - Analyzing file: ./transaction_data\2025-04-24\transactions.csv
+2025-05-11 19:42:39,865 - INFO - Completed analysis for 2025-04-14
+2025-05-11 19:42:39,874 - INFO - Analyzing file: ./transaction_data\2025-04-29\transactions.csv
+2025-05-11 19:42:39,904 - INFO - Completed analysis for 2025-04-22
+2025-05-11 19:42:39,913 - INFO - Analyzing file: ./transaction_data\2025-04-25\transactions.csv
+2025-05-11 19:42:39,928 - INFO - Completed analysis for 2025-04-20
+2025-05-11 19:42:39,934 - INFO - Analyzing file: ./transaction_data\2025-05-01\transactions.csv
+2025-05-11 19:42:39,950 - INFO - Completed analysis for 2025-04-13
+2025-05-11 19:42:39,993 - INFO - Analyzing file: ./transaction_data\2025-05-06\transactions.csv
+2025-05-11 19:42:40,000 - INFO - Completed analysis for 2025-04-07
+2025-05-11 19:42:40,033 - INFO - Analyzing file: ./transaction_data\2025-05-02\transactions.csv
+2025-05-11 19:42:40,096 - INFO - Completed analysis for 2025-04-19
+2025-05-11 19:42:40,107 - INFO - Analyzing file: ./transaction_data\2025-04-27\transactions.csv
+2025-05-11 19:42:40,689 - INFO - Completed analysis for 2025-04-26
+2025-05-11 19:42:40,748 - INFO - Analyzing file: ./transaction_data\2025-05-04\transactions.csv
+2025-05-11 19:42:40,861 - INFO - Completed analysis for 2025-04-21
+2025-05-11 19:42:40,875 - INFO - Analyzing file: ./transaction_data\2025-04-30\transactions.csv
+2025-05-11 19:42:41,098 - INFO - Completed analysis for 2025-04-10
+2025-05-11 19:43:31,018 - INFO - Completed analysis for 2025-04-18
+2025-05-11 19:43:31,124 - INFO - Completed analysis for 2025-05-01
+2025-05-11 19:43:31,147 - INFO - Completed analysis for 2025-04-24
+2025-05-11 19:43:31,175 - INFO - Completed analysis for 2025-04-28
+2025-05-11 19:43:31,248 - INFO - Completed analysis for 2025-04-29
+2025-05-11 19:43:31,289 - INFO - Completed analysis for 2025-05-03
+2025-05-11 19:43:31,290 - INFO - Completed analysis for 2025-05-07
+2025-05-11 19:43:31,314 - INFO - Completed analysis for 2025-05-05
+2025-05-11 19:43:31,321 - INFO - Completed analysis for 2025-05-04
+2025-05-11 19:43:31,337 - INFO - Completed analysis for 2025-04-27
+2025-05-11 19:43:31,352 - INFO - Completed analysis for 2025-05-06
+2025-05-11 19:43:31,363 - INFO - Completed analysis for 2025-04-23
+2025-05-11 19:43:31,379 - INFO - Completed analysis for 2025-04-30
+2025-05-11 19:43:31,393 - INFO - Completed analysis for 2025-05-02
+2025-05-11 19:43:31,400 - INFO - Completed analysis for 2025-04-25
+2025-05-11 19:43:31,405 - INFO - Data acquisition process completed
