@@ -2,3 +2,4 @@
 .env
 processed_chunks
 transaction_data
+.structignore

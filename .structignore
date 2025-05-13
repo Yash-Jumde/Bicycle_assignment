@@ -1,1 +1,4 @@
 .venv
+transaction_data
+processed_chunks
+.git
